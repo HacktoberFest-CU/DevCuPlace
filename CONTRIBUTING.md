@@ -1,10 +1,10 @@
-# Third-Pull-Request
+# DevCuPlace
 
 Lets start how to do a PULL REQUEST.
 For that you need to fork the repository.
 
 Fork this repository 
-[Second-PR](https://github.com/HacktoberFest-CU/Third-Pull-Request)
+[DevCuPlace](https://github.com/HacktoberFest-CU/DevCuPlace)
 
 Click on Fork Button.
 
